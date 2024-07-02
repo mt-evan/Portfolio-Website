@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
+      "title": "Multilingual Speech Synthesis",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio.",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis",
+      "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
       "title": "Project B",
