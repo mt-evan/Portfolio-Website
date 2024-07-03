@@ -11,11 +11,15 @@ export const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Evan</h1>
                 <p className={styles.description}>I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. I am interested in Software Engineering, Web Development, and Data Analysis. Feel free to reach out.</p>
-                <a href="mailto:myemail@.com" className={styles.contactBtn}>Contact Me</a>
+                <a href="mailto:10evantardiff@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
+            <img src={getImageUrl("hero/kevin.png")} alt="Image of me" className={styles.heroImg}/>
             <div className={styles.topBlur}/>
             <div className={styles.bottomBlur}/>
         </section>
     );
 };
+// heroImage.png
+// evanPfp.png
+// Hi, I'm Evan
+// I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. I am interested in Software Engineering, Web Development, and Data Analysis. Feel free to reach out.
