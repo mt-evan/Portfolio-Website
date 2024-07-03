@@ -1,29 +1,10 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Supplemental Instruction Leader",
+      "organisation": "San Diego State University",
+      "startDate": "Jan, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": ["Provide academic support to students taking Calculus 2 by planning and facilitating study sessions and leading review activities without directly tutoring", "Develop learning materials such as practice exams, study guides, and handouts for use during Supplemental Instruction sessions", "Attend weekly meetings to discuss and collaborate with other Leaders on how to improve the program in order to give the most to the students"],
       "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
     }
   ]

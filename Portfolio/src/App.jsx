@@ -5,6 +5,7 @@ import { About } from './componets/About/About';
 import { Experience } from './componets/Experience/Experience';
 import { Projects } from './componets/Projects/Projects';
 import { Contact } from './componets/Contact/Contact';
+import { Skills } from './componets/Skills/Skills';
 
 function App() {
   return (<div className={styles.App}>
@@ -13,6 +14,7 @@ function App() {
     <About />
     <Projects />
     <Experience />
+    <Skills />
     <Contact />
   </div>);
 }
