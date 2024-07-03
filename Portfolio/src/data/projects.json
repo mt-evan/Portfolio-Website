@@ -3,7 +3,7 @@
       "title": "Multilingual Speech Synthesis",
       "imageSrc": "projects/project.png",
       "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio.",
-      "skills": ["React", "Express", "Node"],
+      "skills": ["Python", "Gradio", "Whisper AI", "TTS Synthesis"],
       "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis",
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
