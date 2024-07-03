@@ -10,7 +10,7 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Evan</h1>
-                <p className={styles.description}>I'm a full stack developer with 5 years of experiece using React and NodeJS. Reach out if you'd like to learn more.</p>
+                <p className={styles.description}>I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. I am interested in Software Engineering, Web Development, and Data Analysis. Feel free to reach out.</p>
                 <a href="mailto:myemail@.com" className={styles.contactBtn}>Contact Me</a>
             </div>
             <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>

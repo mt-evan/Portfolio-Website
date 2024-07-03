@@ -8,12 +8,12 @@
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
-      "title": "Project B",
+      "title": "Grocery List App with Chatbot",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This uses HTML, CSS, JavaScript, and a Firebase database that allows multiple people to keep track of a grocery list in real time. In addition, direct access to a ChatGPT chatbot is available to recommend ingredients.",
+      "skills": ["HTML", "CSS", "JavaScript", "Firebase"],
+      "demo": "https://demogrocerylist.netlify.app/",
+      "source": "https://github.com/mt-evan/groceryListWithChatbot"
     },
     {
       "title": "Project C",

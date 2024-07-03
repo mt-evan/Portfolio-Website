@@ -14,22 +14,22 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon"></img>
                         <div className={styles.aboutItemText}>
-                            <h3>Frontend Developer</h3>
-                            <p>I'm a frontend developer with experience in building responsive and optimized sites</p>
+                            <h3>Education</h3>
+                            <p>I'm currently enrolled in my third year at SDSU, and I am set to graduate either in December 2025 or May 2026. I currently have a 3.86 GPA.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="Server icon"></img>
                         <div className={styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
-                            <p>I have experience developing fast and optimised back-end-systems and APIs</p>
+                            <h3>Extracurriculars</h3>
+                            <p>I am involved in the MESA program since August 2022 as well as the AI club since August 2023 here at SDSU.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")} alt="UI icon"></img>
                         <div className={styles.aboutItemText}>
-                            <h3>UI Designer</h3>
-                            <p>I have designed multiple landing pages and have created design systems as well</p>
+                            <h3>Location</h3>
+                            <p>I live in Rowland Heights in LA County, California, but I am open to relocating or working remote.</p>
                         </div>
                     </li>
                 </ul>
