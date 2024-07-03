@@ -19,7 +19,8 @@ export const Experience = () => {
                                     <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                                     <ul>
                                         {historyItem.experiences.map((experience, id) => {
-                                        return <li key={id}>{experience}</li>;
+                                        const isLast = id === historyItem.experiences.length - 1;
+                                        return <li key={id} className={`${styles.bulletpoint} ${isLast ? styles.lastPoint : ''}`}>{experience}</li>;
                                     })}</ul>
                                 </div>
                             </li>)
