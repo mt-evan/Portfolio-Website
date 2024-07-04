@@ -13,7 +13,7 @@ export const Hero = () => {
                 <p className={styles.description}>I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. I am interested in Software Engineering, Web Development, and Data Analysis. Feel free to reach out.</p>
                 <a href="mailto:10evantardiff@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("hero/kevin.png")} alt="Image of me" className={styles.heroImg}/>
+            <img src={getImageUrl("hero/evanSI.png")} alt="Image of me" className={styles.heroImg}/>
             <div className={styles.topBlur}/>
             <div className={styles.bottomBlur}/>
         </section>
