@@ -2,7 +2,7 @@
     {
       "title": "Multilingual Speech Synthesis",
       "imageSrc": "projects/project.png",
-      "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio.",
+      "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio. It turns the original English audio into text using Whisper, then converts the English text into translated text by the translate library, then uses Coqui TTS to convert the translated text into audio.",
       "skills": ["Python", "Gradio", "Whisper AI", "TTS Synthesis"],
       "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis",
       "source": "https://github.com/mt-evan/Speech-Synthesis"
@@ -16,11 +16,11 @@
       "source": "https://github.com/mt-evan/groceryListWithChatbot"
     },
     {
-      "title": "Project C",
+      "title": "Kirby Game",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Built a 2d-platform game based on the classic Kirby by using TypeScript along with the Kaboom.js library. The level/map was constructed using Tiled.",
+      "skills": ["TypeScript", "Kaboom.js", "Tiled"],
+      "demo": "https://kirbyclonegame.netlify.app/",
+      "source": "https://github.com/mt-evan/KirbyCloneGame"
     }
   ]
