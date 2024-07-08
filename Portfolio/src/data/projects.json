@@ -8,6 +8,14 @@
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
+      "title": "Movie Database",
+      "imageSrc": "projects/project.png",
+      "description": "Constructed a web app that has access to a database of movies through an OMDb API. It allows the user to search up movies and see the list of results as well as allowing them to view their descriptions, ratings, and film posters.",
+      "skills": ["React", "HTML", "CSS", "JavaScript"],
+      "demo": "https://searchformovie-db.netlify.app/",
+      "source": "https://github.com/mt-evan/movieApp"
+    },
+    {
       "title": "Grocery List App with Chatbot",
       "imageSrc": "projects/project.png",
       "description": "This uses HTML, CSS, JavaScript, and a Firebase database that allows multiple people to keep track of a grocery list in real time. In addition, direct access to a ChatGPT chatbot is available to recommend ingredients.",
