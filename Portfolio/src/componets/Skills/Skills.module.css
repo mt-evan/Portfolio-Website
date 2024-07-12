@@ -54,3 +54,7 @@
 p {
     color: var(--color-text);
 }
+
+img {
+    margin-left: 1vw;
+}

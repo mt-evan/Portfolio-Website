@@ -17,7 +17,9 @@ export const ProjectCard = ({ project : {title, imageSrc, description, skills, d
                 })}
             </ul>
             <div className={styles.links}>
-                <a href={demo} target="_blank" className={styles.link}>Demo</a>
+            {title !== "Man City Chrome Extension" && (
+                    <a href={demo} target="_blank" className={styles.link}>Demo</a>
+                )}
                 <a href={source} target="_blank" className={styles.link}>Source</a>
             </div>
         </div>

@@ -26,9 +26,16 @@
     {
       "title": "Kirby Game",
       "imageSrc": "projects/project.png",
-      "description": "Built a 2d-platform game based on the classic Kirby by using TypeScript along with the Kaboom.js library. The level/map was constructed using Tiled.",
+      "description": "Built a 2d-platform game based on the classic Kirby by using TypeScript along with the Kaboom.js library. The level/map was constructed using Tiled. X is jump and Z is the ability.",
       "skills": ["TypeScript", "Kaboom.js", "Tiled"],
       "demo": "https://kirbyclonegame.netlify.app/",
       "source": "https://github.com/mt-evan/KirbyCloneGame"
+    },
+    {
+      "title": "Man City Chrome Extension",
+      "imageSrc": "projects/project.png",
+      "description": "Allows the user to quickly and convienently check the results of the recent Manchester City matches. Fetches the data from API-SPORTS with JavaScript and displays it with a concise Bootstrap layout. No demo available since I am not registered as a Chrome Web Store Developer.",
+      "skills": ["HTML", "Bootstrap", "JavaScript"],
+      "source": "https://github.com/mt-evan/mancity-chromeExtension"
     }
   ]
