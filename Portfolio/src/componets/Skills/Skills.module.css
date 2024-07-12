@@ -43,6 +43,7 @@
 .skillImageContainer img {
     width: 75px;
     height: 110px; /* originally height not specified */
+    margin-left: 10%; /* originally not specified */
 }
 
 .skill p {
@@ -53,8 +54,4 @@
 
 p {
     color: var(--color-text);
-}
-
-img {
-    margin-left: 1vw;
 }
