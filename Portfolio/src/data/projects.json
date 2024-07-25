@@ -16,9 +16,9 @@
       "source": "https://github.com/mt-evan/movieApp"
     },
     {
-      "title": "Grocery List App with Chatbot",
+      "title": "Grocery List App with Balance Tracker",
       "imageSrc": "projects/project.png",
-      "description": "This uses HTML, CSS, JavaScript, and a Firebase database that allows multiple people to keep track of a grocery list in real time. In addition, direct access to a ChatGPT chatbot is available to recommend ingredients.",
+      "description": "Made a web app that allows a user to make changes to a grocery list that gets updated in real time. In addition, there is a balance tracking system that enables the user to log and delete their transactions to keep track of their EBT (or any card) balance. All information is stored in a Firebase Database and displayed in an organized manner.",
       "skills": ["HTML", "CSS", "JavaScript", "Firebase"],
       "demo": "https://demogrocerylist.netlify.app/",
       "source": "https://github.com/mt-evan/groceryListWithChatbot"
