@@ -2,7 +2,7 @@
     {
       "title": "Multilingual Speech Synthesis",
       "imageSrc": "projects/project.png",
-      "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio. It turns the original English audio into text using Whisper, then converts the English text into translated text by the translate library, then uses Coqui TTS to convert the translated text into audio.",
+      "description": "This project developed a speech-to-speech synthesis system that inputs English audio and outputs it in any of 17 different languages while preserving the original voice characteristics. The system utilizes Whisper for accurate speech-to-text conversion, achieving 95% translation accuracy. The translated text is then processed using Coqui TTS to convert it back into audio, maintaining the original tone and intonation, with the capability to process up to 50 audio files per hour.",
       "skills": ["Python", "Gradio", "Whisper AI", "TTS Synthesis"],
       "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis1",
       "source": "https://github.com/mt-evan/Speech-Synthesis"
