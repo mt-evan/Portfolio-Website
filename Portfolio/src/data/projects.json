@@ -4,7 +4,7 @@
       "imageSrc": "projects/project.png",
       "description": "This model takes in English audio and outputs it towards the target language while keeping the original voice of the English audio. It turns the original English audio into text using Whisper, then converts the English text into translated text by the translate library, then uses Coqui TTS to convert the translated text into audio.",
       "skills": ["Python", "Gradio", "Whisper AI", "TTS Synthesis"],
-      "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis",
+      "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis1",
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
