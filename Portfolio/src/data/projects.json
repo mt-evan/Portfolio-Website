@@ -2,39 +2,53 @@
     {
       "title": "Multilingual Speech Synthesis",
       "imageSrc": "projects/project.png",
-      "description": "This project developed a speech-to-speech synthesis system that inputs English audio and outputs it in any of 17 different languages while preserving the original voice characteristics. The system utilizes Whisper for accurate speech-to-text conversion, achieving 95% translation accuracy. The translated text is then processed using Coqui TTS to convert it back into audio, maintaining the original tone and intonation, with the capability to process up to 50 audio files per hour.",
+      "description": "I developed a speech-to-speech synthesis system that converts English audio into any of 17 different languages while preserving the original voice characteristics. The system utilizes Whisper for highly accurate speech-to-text conversion with 95% translation accuracy. The translated text is then processed using Coqui TTS to regenerate audio, maintaining the original tone and intonation. The system is capable of processing up to 50 audio files per hour, making it both fast and efficient.",
       "skills": ["Python", "Gradio", "Whisper AI", "TTS Synthesis"],
       "demo": "https://huggingface.co/spaces/irmtou/speechtranslationsynthesis1",
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
-      "title": "Movie Database",
+      "title": "Meal Tracker and Recommendation System",
       "imageSrc": "projects/project.png",
-      "description": "Constructed a web app that has access to a database of movies through an OMDb API. It allows the user to search up movies and see the list of results as well as allowing them to view their descriptions, ratings, and film posters.",
-      "skills": ["React", "HTML", "CSS", "JavaScript"],
-      "demo": "https://searchformovie-db.netlify.app/",
-      "source": "https://github.com/mt-evan/movieApp"
+      "description": "I created a web application that helps users maintain a healthy diet by logging meals and receiving personalized AI-driven meal recommendations. The frontend, built with React and Bootstrap, offers a seamless user experience with sub-200ms response times. The backend, powered by Node.js and Express, efficiently handles thousands of meal entries and user authentication. MongoDB is used for fast data storage and retrieval, while machine learning models developed in Python and TensorFlow analyze meal patterns, achieving 85% recommendation accuracy.",
+      "skills": ["React", "Node.js", "Express", "MongoDB", "Bootstrap"],
+      "source": "https://github.com/Aakash-Evan/SmartEaterApp"
     },
     {
       "title": "Grocery List App with Balance Tracker",
       "imageSrc": "projects/project.png",
-      "description": "Made a web app that allows a user to make changes to a grocery list that gets updated in real time. In addition, there is a balance tracking system that enables the user to log and delete their transactions to keep track of their EBT (or any card) balance. All information is stored in a Firebase Database and displayed in an organized manner.",
+      "description": "This web app allows users to manage a grocery list in real-time and track their balance for EBT or any other card. Users can log and delete transactions to maintain an updated balance. The app's information is stored in a Firebase Database and displayed in an organized interface. This ensures that users can efficiently manage their groceries and finances in one place, offering a streamlined experience.",
       "skills": ["HTML", "CSS", "JavaScript", "Firebase"],
       "demo": "https://demogrocerylist.netlify.app/",
       "source": "https://github.com/mt-evan/groceryListWithChatbot"
     },
     {
+      "title": "Image Processing Kernels",
+      "imageSrc": "projects/project.png",
+      "description": "I developed image processing algorithms in MIPS Assembly, including thresholding for image analysis and affine transformations for rotations and shears. Additionally, I implemented cryptographic text blurring using transposition ciphering to enhance data security in image processing. These optimizations led to improved efficiency in image segmentation and transformation, boosting processing speed and accuracy by up to 30%.",
+      "skills": ["MIPS Assembley", "MARS", "Matrix Multiplication", "Linear Algebra"],
+      "source": "https://github.com/mt-evan/imageProcessingKernels"
+    },
+    {
       "title": "Kirby Game",
       "imageSrc": "projects/project.png",
-      "description": "Built a 2d-platform game based on the classic Kirby by using TypeScript along with the Kaboom.js library. The level/map was constructed using Tiled. X is jump and Z is the ability.",
+      "description": "I built a 2D platform game inspired by the classic Kirby, using TypeScript and the Kaboom.js library. The game features a custom level/map constructed with Tiled. Players can jump using the X key and use special abilities with the Z key. The game recreates the nostalgic feel of Kirby with modern development tools, making it both fun and technically interesting.",
       "skills": ["TypeScript", "Kaboom.js", "Tiled"],
       "demo": "https://kirbyclonegame.netlify.app/",
       "source": "https://github.com/mt-evan/KirbyCloneGame"
     },
     {
+      "title": "Movie Database",
+      "imageSrc": "projects/project.png",
+      "description": "I developed a web app that accesses a database of movies through the OMDb API, allowing users to search for films and view detailed information. Users can see movie descriptions, ratings, and film posters in an easy-to-navigate interface. This project showcases my ability to integrate third-party APIs and create user-friendly, data-driven applications.",
+      "skills": ["React", "HTML", "CSS", "JavaScript"],
+      "demo": "https://searchformovie-db.netlify.app/",
+      "source": "https://github.com/mt-evan/movieApp"
+    },
+    {
       "title": "Man City Chrome Extension",
       "imageSrc": "projects/project.png",
-      "description": "Allows the user to quickly and convienently check the results of the recent Manchester City matches. Fetches the data from API-SPORTS with JavaScript and displays it with a concise Bootstrap layout. No demo available since I am not registered as a Chrome Web Store Developer.",
+      "description": "I created a Chrome extension that lets users quickly check the results of recent Manchester City matches. The extension fetches data from API-SPORTS using JavaScript and presents it in a clean, Bootstrap-based layout. Though not available in the Chrome Web Store, the extension provides a convenient and efficient way for fans to stay updated on their team's performance.",
       "skills": ["HTML", "Bootstrap", "JavaScript"],
       "source": "https://github.com/mt-evan/mancity-chromeExtension"
     }
