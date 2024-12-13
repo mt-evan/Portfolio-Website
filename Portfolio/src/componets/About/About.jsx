@@ -22,19 +22,19 @@ export const About = () => {
                         <img src={getImageUrl("about/extra.png")} alt="Server icon"></img>
                         <div className={styles.aboutItemText}>
                             <h3>Extracurriculars</h3>
-                            <p>I am involved in the MESA program since August 2022 as well as the AI club since August 2023 here at SDSU.</p>
+                            <p>I am involved in the MESA program since August 2022 as well as the AI club from August 2023 to May 2024 here at SDSU. 
+                            I have also joined the AI4Business research lab in December 2024 where we use machine leanring to solve real-world problems.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/location.png")} alt="UI icon"></img>
                         <div className={styles.aboutItemText}>
                             <h3>Location</h3>
-                            <p>I live in Rowland Heights in LA County, California, but I am open to relocating or working remote.</p>
+                            <p>I live in Rowland Heights in LA County, California, and attend school in San Diego, California, but I am open to relocating or working remote.</p>
                         </div>
                     </li>
                 </ul>
-            </div>
-            
+            </div> 
         </section>
     );
 };
