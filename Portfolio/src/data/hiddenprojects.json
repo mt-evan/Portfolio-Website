@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Kirby Game",
+        "imageSrc": "projects/project.png",
+        "description": "I built a 2D platform game inspired by the classic Kirby, using TypeScript and the Kaboom.js library. The game features a custom level/map constructed with Tiled. Players can jump using the X key and use special abilities with the Z key. The game recreates the nostalgic feel of Kirby with modern development tools, making it both fun and technically interesting.",
+        "skills": ["TypeScript", "Kaboom.js", "Tiled"],
+        "demo": "https://kirbyclonegame.netlify.app/",
+        "source": "https://github.com/mt-evan/KirbyCloneGame"
+    },
+    {
+        "title": "Movie Database",
+        "imageSrc": "projects/project.png",
+        "description": "I developed a web app that accesses a database of movies through the OMDb API, allowing users to search for films and view detailed information. Users can see movie descriptions, ratings, and film posters in an easy-to-navigate interface. This project showcases my ability to integrate third-party APIs and create user-friendly, data-driven applications.",
+        "skills": ["React", "HTML", "CSS", "JavaScript"],
+        "demo": "https://searchformovie-db.netlify.app/",
+        "source": "https://github.com/mt-evan/movieApp"
+    },
+    {
+        "title": "Man City Chrome Extension",
+        "imageSrc": "projects/project.png",
+        "description": "I created a Chrome extension that lets users quickly check the results of recent Manchester City matches. The extension fetches data from API-SPORTS using JavaScript and presents it in a clean, Bootstrap-based layout. Though not available in the Chrome Web Store, the extension provides a convenient and efficient way for fans to stay updated on their team's performance.",
+        "skills": ["HTML", "Bootstrap", "JavaScript"],
+        "source": "https://github.com/mt-evan/mancity-chromeExtension"
+    }
+]
