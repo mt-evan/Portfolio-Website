@@ -23,7 +23,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3>Extracurriculars</h3>
                             <p>I am involved in the MESA program since August 2022 as well as the AI club from August 2023 to May 2024 here at SDSU. 
-                            I have also joined the AI4Business research lab in December 2024 where we use machine leanring to solve real-world problems.</p>
+                            I have also joined the AI4Business research lab in December 2024 where we use machine learning to solve real-world problems.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
