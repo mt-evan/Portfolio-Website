@@ -15,15 +15,15 @@ export const About = () => {
                         <img src={getImageUrl("about/education.png")} alt="Cursor icon"></img>
                         <div className={styles.aboutItemText}>
                             <h3>Education</h3>
-                            <p>I'm currently enrolled in my third year at SDSU, and I am set to graduate either in December 2025 or May 2026. I currently have a 3.87 GPA.</p>
+                            <p>I'm currently enrolled in my third year at SDSU, and I am set to graduate in December 2025. I currently have a 3.88 GPA.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/extra.png")} alt="Server icon"></img>
                         <div className={styles.aboutItemText}>
                             <h3>Extracurriculars</h3>
-                            <p>I am involved in the MESA program since August 2022 as well as the AI club from August 2023 to May 2024 here at SDSU. 
-                            I have also joined the AI4Business research lab in December 2024 where we use machine learning to solve real-world problems.</p>
+                            <p>I have been involved in the MESA program since August 2022 and participated in the AI club from August 2023 to May 2024 here at SDSU. 
+                            I have also joined the AI4Business research lab in December 2024 where we use machine learning to solve real-world problems and for research projects.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
