@@ -15,7 +15,7 @@ export const About = () => {
                         <img src={getImageUrl("about/education.png")} alt="Cursor icon"></img>
                         <div className={styles.aboutItemText}>
                             <h3>Education</h3>
-                            <p>I am currently in my fourth year at San Diego State University pursuing a Bachelor's degree in Computer Science with a minor in Mathematics, and I am expected to graduate in May 2026. I currently have a 3.90 GPA.</p>
+                            <p>I am currently in my fourth year at San Diego State University pursuing a Bachelor's degree in Computer Science with a minor in Mathematics, and I am expected to graduate in December 2026. I currently have a 3.90 GPA.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>

@@ -10,8 +10,11 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Evan</h1>
-                <p className={styles.description}>I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. 
-                I will be with Lutron Electronics in the upcoming summer of 2025 as a Software Engineering Intern in their Philadelphia office. Feel free to reach out.</p>
+                <p className={styles.description}>I'm a senior at San Diego State University majoring in Computer Science with a minor in Mathematics. 
+                    My internship experience spans full-stack development, backend engineering, and AI research focused on reducing hallucinations in LLMs. 
+                    These roles have strengthened my ability to build scalable software systems and collaborate across technical domains. 
+                    I'm excited to contribute as an entry-level software engineer in backend, full-stack, or emerging fields like data science and artificial intelligence.
+                </p>
                 <a href="mailto:10evantardiff@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
             <img src={getImageUrl("hero/evanSI.png")} alt="Image of me" className={styles.heroImg}/>
@@ -20,7 +23,3 @@ export const Hero = () => {
         </section>
     );
 };
-// heroImage.png
-// evanPfp.png
-// Hi, I'm Evan
-// I'm a current 3rd year at San Diego State University majoring in Computer Science with a minor in Mathematics. I am interested in Software Engineering, Web Development, and Data Analysis. Feel free to reach out.
