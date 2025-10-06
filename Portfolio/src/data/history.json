@@ -1,8 +1,25 @@
 [
     {
+      "role": "Software Engineering Intern",
+      "organisation": "Lutron Electronics",
+      "location": "Philadelphia, PA (On-Site)",
+      "startDate": "May 2025",
+      "endDate": "Aug 2025",
+      "experiences": ["Designed and implemented a Share History feature, an asynchronous event-driven system saving Lutron $60K+/year by enabling Tech Support to audit access-sharing events without engineering support.", "Developed backend services in Golang, including Lambda functions and REST APIs with authorization checks and user profile resolution; provisioned infrastructure using AWS CDK (Python) to deploy DynamoDB, API Gateway, Lambda, and EventBridge.", "Built a TypeScript client to communicate with backend APIs via GET requests, implementing a feature flag for controlled rollout; designed a clean UI/UX using Mantine with support for pagination, caching, and intuitive display of share history data.", "Wrote robust unit tests and behavioral tests using Gherkin and Behave (Python) to ensure system reliability and correctness.", "Utilized Postman for API testing, Bitbucket for version control, and CloudBees/Jenkins for CI/CD pipelines."],
+      "imageSrc": "about/lutron.png"
+    }, {
+      "role": "Student Research Assistant",
+      "organisation": "AI4Business Lab",
+      "location": "San Diego, CA (Remote)",
+      "startDate": "Jan 2025",
+      "endDate": "May 2025",
+      "experiences": ["Contributed 90+ hours to a research project on LLM hallucination mitigation, developing a two-phase multi-agent framework using AutoGen to detect and reduce hallucinations in QA tasks across datasets like HotpotQA, TriviaQA, and TruthfulQA.", "Fine-tuned agents and implemented evaluation pipelines that achieved up to 92% accuracy and 86% precision, outperforming non-fine-tuned baselines; responsibilities included literature review, coding, methodology development, and drafting the final report."],
+      "imageSrc": "about/ai4business.png"
+    }, {
       "role": "Supplemental Instruction Leader",
       "organisation": "San Diego State University",
-      "startDate": "Jan, 2023",
+      "location": "San Diego, CA (On-Site)",
+      "startDate": "Jan 2023",
       "endDate": "Present",
       "experiences": ["Facilitated over 60 study sessions per semester for Calculus 2 and Physics, leading targeted review activities that contributed to a 10.4% average grade increase and a 10% higher pass rate among participating students.", "Developed strong collaboration and leadership skills by working with a team of Leaders in weekly strategy meetings, improving program effectiveness and helping achieve a 90% course completion rate for students attending six or more sessions."],
       "imageSrc": "about/sdsu.png"
