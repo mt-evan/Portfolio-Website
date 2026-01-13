@@ -8,19 +8,18 @@
       "source": "https://github.com/mt-evan/Speech-Synthesis"
     },
     {
+      "title": "Real-Time Auction Marketplace Platform",
+      "imageSrc": "projects/project.png",
+      "description": "I built a full-stack auction marketplace with real-time bidding, messaging, and transaction management. The frontend uses Next.js 16, React 19, and TypeScript with Tailwind CSS and Radix UI, while a custom WebSocket hook delivers sub-second live auction updates. The backend is powered by FastAPI, SQLAlchemy, and PostgreSQL with connection pooling and SSL, exposing 30+ REST APIs and a WebSocket service organized across 9 data models using a repository pattern. Core features include real-time bidding, direct messaging, notifications, seller ratings, watchlists, and order tracking. The system supports auction-specific WebSocket subscriptions with automatic reconnection and secure JWT authentication with Argon2, and is fully deployed on Railway.",
+      "skills": ["FastAPI", "SQLAlchemy ORM", "Python", "Next.js", "TypeScript", "React", "Tailwind CSS", "Radix UI", "PostgreSQL"],
+      "source": "https://github.com/SDSU-CompE-561-Fall-2025/the-auction"
+    },
+    {
       "title": "Meal Tracker and Recommendation System",
       "imageSrc": "projects/project.png",
       "description": "I created a web application that helps users maintain a healthy diet by logging meals and receiving personalized AI-driven meal recommendations. The frontend, built with React and Bootstrap, offers a seamless user experience with sub-200ms response times. The backend, powered by Node.js and Express, efficiently handles thousands of meal entries and user authentication. MongoDB is used for fast data storage and retrieval, while machine learning models developed in Python and TensorFlow analyze meal patterns, achieving 85% recommendation accuracy.",
       "skills": ["React", "Node.js", "Express", "MongoDB", "Bootstrap"],
       "source": "https://github.com/Aakash-Evan/SmartEaterApp"
-    },
-    {
-      "title": "Grocery List App with Balance Tracker",
-      "imageSrc": "projects/project.png",
-      "description": "This web app allows users to manage a grocery list in real-time and track their balance for EBT or any other card. Users can log and delete transactions to maintain an updated balance. The app's information is stored in a Firebase Database and displayed in an organized interface. This ensures that users can efficiently manage their groceries and finances in one place, offering a streamlined experience.",
-      "skills": ["HTML", "CSS", "JavaScript", "Firebase"],
-      "demo": "https://demogrocerylist.netlify.app/",
-      "source": "https://github.com/mt-evan/groceryListWithChatbot"
     },
     {
       "title": "Image Processing Kernels",

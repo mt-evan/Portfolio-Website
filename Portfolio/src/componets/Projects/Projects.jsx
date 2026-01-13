@@ -14,9 +14,7 @@ export const Projects = () => {
                         <ProjectCard key={id} project={project}/>
                     );
                 })
-            }</div>
-                
-            
+            }</div>  
         </section>
     );
 };

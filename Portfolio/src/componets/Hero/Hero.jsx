@@ -10,10 +10,12 @@ export const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I'm Evan</h1>
-                <p className={styles.description}>I'm a senior at San Diego State University majoring in Computer Science with a minor in Mathematics. 
-                    My internship experience spans full-stack development, backend engineering, and AI research focused on reducing hallucinations in LLMs. 
-                    These roles have strengthened my ability to build scalable software systems and collaborate across technical domains. 
-                    I'm excited to contribute as an entry-level software engineer in backend, full-stack, or emerging fields like data science and artificial intelligence.
+                <p className={styles.description}>
+                    I'm a Computer Science graduate from San Diego State University with hands-on experience across full-stack development, backend engineering, 
+                    and applied AI research. I currently work as a Full Stack Engineer at Pares (YC S25), where I build and ship production features in a fast-paced startup 
+                    environment using modern web technologies. Previously, I designed scalable backend systems and event-driven architectures during my internship at Lutron 
+                    Electronics, and conducted AI research focused on reducing hallucinations in large language models. I'm passionate about building reliable, scalable
+                     software and am excited to contribute as a software engineer in backend, full-stack, or AI-driven roles.
                 </p>
                 <a href="mailto:10evantardiff@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>
